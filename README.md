@@ -14,7 +14,7 @@ Python 3.7+. Внешних зависимостей нет — только с�
 ## Запуск
 
 ```bash
-git clone <url-репозитория>
+git clone https://github.com/ak-umka/simple
 cd simple-speedtest
 python3 speedtest.py <URL>
 ```
